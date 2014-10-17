@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gae:home|Door43 (gae)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gae|d43-gae repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gae/archive/master.zip|d43-gae.zip]]
+
+**Recent Changes**
+{{changes>ns = gae}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gae|Ethnologue data]]
+
